@@ -6,5 +6,5 @@ In the first file (outages), I clean the dataset and use exploratory data analys
 which is not missing by design or NMAR, and finishing up with a hypothesis test.
 
 In the second file (outages2), I used the same cleaning procedures on the dataset as the previous file, then created a Baseline model, then
-a final model and evaluated the fairness of the final model with Scikit learn.
+a final model and evaluated the fairness of the final model using Scikit learn throughout the entire file.
 
