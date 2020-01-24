@@ -1,4 +1,4 @@
-# DSC80_Projects
+# Outages
 
 Both of the projects listed in this repository revolve around the dataset from the website ("https://engineering.purdue.edu/LASCI/research-data/outages/outagerisks") and each column is explained on this website ("https://www.sciencedirect.com/science/article/pii/S2352340918307182"). The dataset is about the major power outage events in the US from January 2000 to July 2016, with major being defined as either from affecting 50,000 customers or from causing an unplanned firm load loss of atleast 300MW(Megawatts).
 
